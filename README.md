@@ -14,7 +14,7 @@ To play a game with the PC the program waits for the letter 'p' to be clicked fo
 To stop running the camera and programme the user just needs to click 'q' for 5ms. 
 
 
-## Future Optimizations
+## Future Optimizations:
 
 Future optimizations that I look forward to making are: 
 1) Implementing OOP to game.py as the code currently uses global variables and runs the main functionality outside of a function, which can certainly be improved.
