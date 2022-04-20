@@ -1,8 +1,7 @@
 # Rock Paper Scissors Lizard Spock
 The project I have created for the Arnold Clark Hackathon 2022 is an object detection program that recognises the gesture made by the user and displays an emoji at the top-left corner of their choice. To play against the computer the user can press 'p', the computer will randomly select a gesture which will be displayed on the top right corner alongside whether the user won or lost.
 
-
-![alt text]( "Logo Title Text 1")
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67346082/164284470-821606fd-ddf6-43e9-9b90-b2fe498d8b76.gif)
 
 ## How It's Made:
 
